@@ -33,7 +33,7 @@
 
  [Trakteer](https://trakteer.id/NazwaS)
  
- [saweria] (https://saweria.co/doraemonbot
+ [saweria] (https://saweria.co/doraemonbot)
 </details>
 </div>
 
